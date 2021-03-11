@@ -8,3 +8,5 @@ Final donor cohort (labeled as LEN_final): 14 de-identified human donor prefront
 Analysis completed using primarily Biocondutor/Seurat packages.
 Differential gene expression (DGE) analysis completed using edgeR package paired with zinbwave-generated observational weights.
 Gene ontology (GO)/pathway analysis completed using clusterProfiler package. 
+
+Data visualization completed using Seurat, UpSetR, and ComplexHeatmap functions. 
