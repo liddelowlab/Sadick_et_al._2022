@@ -1,7 +1,7 @@
-# Sadick-et-al., XXX, XXX
+# Sadick-et-al., Neuron, 2022
 Human astrocytes and oligodendrocytes to the max!
 
-Libraries (including version) used to analyze single nuclei RNASeq (snRNA-seq) astrocyte data included in: Sadick et al., XXX, XXX
+Libraries (including version) used to analyze single nuclei RNASeq (snRNA-seq) astrocyte data included in: Sadick et al., Neuron, 2022
 
 Included is the github libraries and code necessary to replicate the Seurat objects used for analysis as well as all differential gene expression analysis and GO/pathway analysis completed. The following versions of individual software/packages were used for analysis:
 
