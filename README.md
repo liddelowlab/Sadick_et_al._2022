@@ -1,4 +1,4 @@
-# [Sadick et al. 2022](https://doi.org/10.1016/j.neuron.2022.03.008)
+# [Sadick et al. 2022, Neuron](https://doi.org/10.1016/j.neuron.2022.03.008)
 Human astrocytes and oligodendrocytes to the max!
 
 This repository includes the code used in the analysis of single nuclei RNASeq (snRNA-seq) astrocyte and oligodendrocyte data from [Sadick et al. 2022](https://doi.org/10.1016/j.neuron.2022.03.008).
